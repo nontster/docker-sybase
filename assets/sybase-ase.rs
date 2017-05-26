@@ -17,8 +17,8 @@ sqlsrv.master_device_physical_name: /opt/sybase/data/master.dat
 sqlsrv.master_device_size: 384
 sqlsrv.master_database_size: 300
 sqlsrv.errorlog: /opt/sybase/ASE-16_0/install/MYSYBASE.log
-sqlsrv.sort_order:	bin_utf8
-sqlsrv.default_characterset:	utf8
+sqlsrv.sort_order:	thaidict
+sqlsrv.default_characterset:	cp874
 sqlsrv.default_language:	us_english
 sqlsrv.do_upgrade: no
 sqlsrv.sybsystemprocs_device_physical_name: /opt/sybase/data/sysprocs.dat
